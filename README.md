@@ -2,21 +2,20 @@
 
 ### Full-Stack Developer | Shopify Developer
 
-I build modern web applications and custom Shopify solutions, with a focus on clean, practical, and scalable software.
+I build modern web applications and custom Shopify solutions.
 
 ### Tech Stack
 
 **Frontend**
 - JavaScript / TypeScript
 - React / Next.js
-- Tailwind CSS
 - HTML / CSS
-- Framer Motion
 
 **Backend**
 - Node.js / Express / NestJS
-- Python / Django / Flask
-- PostgreSQL / MongoDB
+- REST APIs
+- PostgreSQL / Prisma
+- Redis
 
 **Shopify**
 - Liquid
@@ -27,5 +26,5 @@ I build modern web applications and custom Shopify solutions, with a focus on cl
 **Tools & Other**
 - Git / GitHub
 - Linux
-- REST APIs
+- Docker
 - Bash
