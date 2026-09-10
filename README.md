@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Lotachukwu 👋
 
-<!--
-**lotadevstudio/lotadevstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Shopify Developer
 
-Here are some ideas to get you started:
+I build modern web applications and custom Shopify solutions, with a focus on clean, practical, and scalable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+**Frontend**
+- JavaScript / TypeScript
+- React / Next.js
+- Tailwind CSS
+- HTML / CSS
+- Framer Motion
+
+**Backend**
+- Node.js / Express / NestJS
+- Python / Django / Flask
+- PostgreSQL / MongoDB
+
+**Shopify**
+- Liquid
+- Shopify Themes
+- Shopify APIs
+- Hydrogen
+
+**Tools & Other**
+- Git / GitHub
+- Linux
+- REST APIs
+- Bash
